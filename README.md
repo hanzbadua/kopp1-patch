@@ -1,7 +1,8 @@
 [Knights of Pen and Paper +1](https://store.steampowered.com/app/231740/Knights_of_Pen_and_Paper_1_Edition/) is a cool little game, but there are some tedious features about it
 
-1. A secret dungeon vendor which sells endgame equipment has only a 0.001% (!) chance to appear on a 19/20 Castle Sewers dungeon dice roll - this has been changed to 20%
-2. You get 800 starting gold bonus on a fresh save file if you have the deluxe/preorder versions - this has been changed to 10000
+1. A secret dungeon vendor which sells endgame equipment has only a 0.001% (!) chance to appear on a 19/20 Castle Sewers dungeon dice roll - this has been changed to 10%
+2. You get 800 starting gold bonus on a fresh save file if you have the deluxe/preorder versions - this has been changed to 50000
+3. Unlock the deluxe/preorder bonuses regardless of whether you actually own deluxe/preorder dlcs :)
 
 Download from [Releases](https://github.com/hanzbadua/kopp1-patch/releases) and drag-and-drop+replace `Assembly-CSharp.dll` in `GAMEDIRECTORY\knightspp_Data\Managed`
 
